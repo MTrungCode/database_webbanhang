@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6382bddcaa8e87abd4037ff6"
+  },
+  "description": "Ngâm kem với một ít quế - việc xay gia vị của riêng bạn rất đáng để nỗ lực thêm",
+  "favorite": true,
+  "ingredients": "225ml sữa;1 thanh quế;3 lòng đỏ trứng;100g đường cát;1 muỗng cà phê quế xay, xay tươi nếu có thể;450ml kem tươi hoặc kem đôi",
+  "method": "BƯỚC 1: Cho sữa vào chảo cùng với thanh quế và đun sôi. Trong một cái bát, đánh đều lòng đỏ, đường và bột quế. Vứt bỏ thanh quế, sau đó lọc sữa nóng lên lòng đỏ, đánh liên tục.;BƯỚC 2: Đổ lại hỗn hợp sữa trứng vào chảo và nấu ở nhiệt độ thấp trong 8-10 phút, khuấy liên tục cho đến khi đặc lại. Đánh sữa trứng vào kem, sau đó để nguội, làm lạnh và đông lạnh trong máy làm kem.",
+  "name": "Cinnamon ice cream",
+  "thumbar": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1075467_10-78ecd5b.jpg?quality=90&webp=true&resize=300,272"
+},{
+  "_id": {
+    "$oid": "6382e210aa8e87abd403960d"
+  },
+  "description": "Nướng một món tráng miệng ấn tượng cho bữa tiệc tối mà không tốn nhiều công sức - những chiếc bánh pudding sô cô la này, còn được gọi là kẹo mềm sô cô la hoặc bánh dung nham, có phần nhân béo ngậy đáng yêu",
+  "favorite": false,
+  "ingredients": "100g bơ, cộng thêm dầu mỡ;100g sô cô la đen, xắt nhỏ;150g đường mềm màu nâu nhạt;3 quả trứng lớn;½ muỗng cà phê chiết xuất vani;50g bột mì",
+  "method": "BƯỚC 1: Làm nóng lò nướng ở nhiệt độ 200C/quạt 180C/khí gas 6. Bơ 6 khuôn hoặc chậu dariole thật kỹ và đặt lên khay nướng.;BƯỚC 2: Cho 100g bơ và 100g sô cô la đen cắt nhỏ vào một cái bát chịu nhiệt và đặt trên chảo nước nóng (hoặc cách khác là cho vào lò vi sóng và đun chảy trong 30 giây ở chế độ thấp) và khuấy cho đến khi mịn. Đặt sang một bên để nguội một chút trong 15 phút.;BƯỚC 3: Sử dụng máy đánh trứng cầm tay, trộn 150g đường mềm màu nâu nhạt, sau đó cho 3 quả trứng lớn vào, đánh từng quả một, tiếp theo là ½ thìa cà phê chiết xuất vani và cuối cùng là 50g bột mì. Chia hỗn hợp giữa các darioles hoặc lưu vực.;BƯỚC 4: Bây giờ bạn có thể cho hỗn hợp vào tủ lạnh hoặc tủ đông cho đến khi bạn sẵn sàng nướng chúng. Có thể nấu trực tiếp từ tủ lạnh trong 16 phút hoặc nướng ngay bây giờ trong 10-12 phút cho đến khi phần trên cứng lại khi chạm vào nhưng phần giữa vẫn có cảm giác như mực.;Bước 5: Cẩn thận cắt dao xung quanh mép của mỗi chiếc bánh pudding, sau đó bày ra đĩa và phục vụ với một loại kem.",
+  "name": "Easy chocolate molten cakes",
+  "thumbar": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/easy-chocolate-molten-cakes-37a25eb.jpg?quality=90&webp=true&resize=300,272"
+},{
+  "_id": {
+    "$oid": "6382e316aa8e87abd40396b0"
+  },
+  "description": "Món tráng miệng thay thế này không thể đơn giản hơn hoặc theo mùa hơn",
+  "favorite": false,
+  "ingredients": "4 muỗng canh Crème de Cassis (rượu nho đen);650g dâu tây, bỏ vỏ và giảm một nửa nếu lớn;2 x 125g quả mâm xôi;2 x 125g quả việt quất;2 muỗng canh đường vàng;Hộp kem đơn 578ml để phục vụ",
+  "method": "BƯỚC 1: Đo khung vào đế của một bát phục vụ lớn và khuấy trong dâu tây. Xếp quả mâm xôi và quả việt quất lên trên và rải đều đường, nhưng chưa trộn.;BƯỚC 2: Đậy bát bằng màng bám. Ngay trước khi phục vụ, nhẹ nhàng ném quả mọng và phục vụ với một bình kem lớn.",
+  "name": "Drunken berries with cream",
+  "thumbar": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-2161_12-e542d6a.jpg?quality=90&webp=true&resize=300,272"
+},{
+  "_id": {
+    "$oid": "6382e51daa8e87abd40397f2"
+  },
+  "description": "Món tráng miệng mùa hè tuyệt đẹp này rất lý tưởng để giải trí. Làm bánh kem dâu tây của chúng tôi cho bữa tiệc tiếp theo của bạn và phục vụ những lát bánh phủ trái cây tươi",
+  "favorite": false,
+  "ingredients": "300g dâu tây;4 quả trứng;125g đường cát;50g bơ không ướp muối, đun chảy, cộng thêm cho hộp thiếc;125g bột mì;300g kem dâu;kem đôi 400ml;1 muỗng canh đường bột;1 muỗng canh dâu tây đông khô (tùy chọn);1 muỗng canh quả hồ trăn, xắt nhỏ (tùy chọn)",
+  "method": "BƯỚC 1: Làm nóng lò nướng ở nhiệt độ 180C/160C quạt/khí gas 4. Bơ cho đế và các mặt của hộp thiếc dạng lò xo 20cm và lót bằng giấy nướng. Đun sôi một chảo nước. Chọn tám quả dâu tây đẹp nhất và đặt sang một bên. Hull và cắt phần còn lại.;BƯỚC 2: Đập trứng vào một bát chịu nhiệt lớn, thêm đường cát và đặt trên nước sôi, đảm bảo đáy bát không chạm vào nước. Dùng máy đánh trứng đánh trứng và đường cho đến khi đặc lại và nở gấp đôi. Tắt bếp và tiếp tục đánh thêm vài phút nữa cho đến khi hỗn hợp có dạng ruy băng khi nhấc que đánh ra. Rưới bơ vào xung quanh các cạnh của bát và dùng thìa kim loại lớn cho vào, cẩn thận không để không khí bay ra – dừng lại ngay khi không còn vết bơ. Rây bột mì và một nhúm muối lớn vào rồi cho vào. Nhẹ nhàng đổ hỗn hợp vào hộp đã chuẩn bị sẵn và gõ nhẹ lên mặt bàn làm việc để loại bỏ bọt khí lớn. Nướng không quấy rầy trong 25 phút cho đến khi vàng nâu. Để nguội trong hộp thiếc trong 1-2 phút, sau đó lấy ra giá để nguội hoàn toàn.;BƯỚC 3: Khi đã sẵn sàng để lắp ráp, lấy kem ra khỏi tủ đông để làm mềm trong 5 phút. Làm sạch khuôn bánh dạng lò xo 20 cm và lau khô. Cắt bánh làm đôi qua đường xích đạo. Đặt đế bánh lên một tờ giấy nướng và cẩn thận nhấc vào hộp thiếc đã được làm sạch. Đặt vòng xung quanh đế bánh và giấy da, và kẹp vào vị trí. Khi kem đã hơi mềm, đổ kem lên trên đế và dùng thìa nhỏ phết ra mép. Để có được bề mặt phẳng, mịn, hãy nhúng thìa vào cốc nước sôi và lau khô trước khi sử dụng. Xếp dâu tây đã cắt lát lên trên, sau đó kẹp với nửa trên của chiếc bánh Để đông lạnh qua đêm.;BƯỚC 4: Khi đã sẵn sàng để phục vụ, giảm một nửa số dâu tây dành riêng. Cho kem vào tô lớn và rây đường bột vào. Đánh bông bằng máy đánh trứng cho đến khi kem vừa giữ được hình dạng. Múc một phần tư hỗn hợp vào một túi bắt kem nhỏ có gắn vòi sao. Lấy bánh ra khỏi ngăn đá, tháo khuôn và bày bánh ra đĩa. Phết phần kem còn lại lên trên và các mặt, sau đó bắt kem xoáy lên trên và trang trí bằng nửa quả dâu tây. Rắc lên dâu tây đông khô và quả hồ trăn, nếu sử dụng. Cắt bằng dao sắc và phục vụ ngay lập tức.",
+  "name": "Strawberry & ice cream cake",
+  "thumbar": "https://images.immediate.co.uk/production/volatile/sites/30/2022/07/strawberries-and-ice-cream-cake-b4839ae.jpg?quality=90&webp=true&resize=300,272"
+},{
+  "_id": {
+    "$oid": "6385c5f3b11feae9cab5c853"
+  },
+  "description": "Món cocktail sền sệt này được làm ngon nhất khi dâu tây đang vào mùa và chín nhất. Chỉ với bốn thành phần, bạn có thể đánh tan cơn khát này trong 10 phút.",
+  "favorite": false,
+  "ingredients": "500g dâu tây, vỏ;200g đá;100ml rượu rum;nước cốt 1/2 quả chanh;1-2 muỗng canh xi-rô đường, tùy chọn;1-2 muỗng canh xi-rô đường, tùy chọn;2 lát chanh;1 quả dâu tây, giảm một nửa;2 que cocktail",
+  "method": "BƯỚC 1: Xay nhuyễn dâu tây sau đó lọc hỗn hợp nhuyễn qua rây để loại bỏ một số hạt.Cho hỗn hợp đã xay nhuyễn đã rây vào máy xay một lần nữa và thêm đá, rượu rum, 1-2 muỗng canh xi-rô đường tùy thuộc vào độ ngọt của đồ uống và nước cốt chanh của bạn. Trộn lại và chia hỗn hợp giữa 2 ly Martini.;BƯỚC 2: Xiên các lát chanh và nửa quả dâu tây lên que cocktail và đặt lên mép ly, dùng ngay.",
+  "name": "Frozen strawberry daiquiri",
+  "thumbar": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/frozen-strawbz-329b8e5.jpg?quality=90&webp=true&resize=300,272"
+},{
+  "_id": {
+    "$oid": "6385d2c5b11feae9cab5cd98"
+  },
+  "description": "Biến một ly cocktail cổ điển thành những chiếc bánh nhỏ thơm ngon với kẹo mềm daiquiri dâu tây tuyệt đẹp của chúng tôi. Đưa bữa trà chiều của bạn lên một tầm cao mới",
+  "favorite": false,
+  "ingredients": "250g bơ, làm mềm (cộng thêm cho hộp thiếc);4 quả trứng lớn;250g đường cát vàng;250g bột mì tự nở;½ muỗng cà phê bột nở;1 muỗng cà phê chiết xuất vani;6 muỗng canh rượu rum trắng;100g bơ, để mềm;100g đường cát;1 muỗng cà phê sữa;6 muỗng cà phê mứt dâu;vài giọt màu thực phẩm hồng;1kg gói đường bột kẹo mềm;nước đá trắng;dâu tây đông khô hoặc vỏ chanh",
+  "method": "BƯỚC 1: Làm nóng lò nướng ở 180C/160C quạt/khí ga 4. Bơ vào khuôn 30 x 20cm và lót giấy nướng. Cho các nguyên liệu làm bánh vào tô trừ rượu rum trắng. Dùng máy đánh trứng đánh cho đến khi mịn, sau đó chuyển sang hộp thiếc, dàn đều và nướng trong 30-35 phút cho đến khi xiên que vào giữa thấy sạch. Để nguội hoàn toàn.;BƯỚC 2: Trong khi đó, để làm nhân bánh, đánh bơ, đường bột và sữa với nhau cho đến khi mịn, sau đó chuyển sang túi bắt kem.;BƯỚC 3: Khi bánh nguội, cắt bỏ phần trên cho bằng phẳng, lật lại, tỉa và cắt thành những miếng vừa ăn, khoảng 10 cm. Các ô vuông cạnh 4cm (bốn ô vuông có chiều ngang và bảy ô vuông có cạnh dưới). Bạn nên có 28.Nhúng nhanh từng cái vào rượu rum và ngồi úp mặt xuống. Cho một ít mứt dâu tây lên trên mỗi chiếc bánh, sau đó đổ một viên kem bơ có kích thước bằng quả mâm xôi lên trên mỗi chiếc bánh.;BƯỚC 4: Đối với phần đóng băng, trộn đường đóng băng kẹo mềm, màu hồng và đủ nước để tạo thành hỗn hợp sữa đặc. Đặt những chiếc bánh lên giá đỡ bằng dây đặt trên khay để hứng những giọt nước nhỏ xuống, sau đó phủ từng chiếc bánh trong lớp kem lạnh. Cách tốt nhất để làm điều này là đặt từng cái lên trên bát kem trên một chiếc thìa có rãnh, sau đó dùng thìa rưới thật nhiều nước lên trên lớp kem. Lấy ra khỏi muỗng có rãnh bằng dao kéo và đặt trên giá để khô. Trang trí bằng một ít dâu tây đông khô và kem trắng. Phục vụ trong hộp bánh, nếu bạn thích. Sẽ giữ được hai ngày trong hộp kín.",
+  "name": "Strawberry daiquiri cocktail fancies",
+  "thumbar": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/strawberry-daiquiri-fondant-fancies-b048230.jpg?quality=90&webp=true&resize=300,272"
+},{
+  "_id": {
+    "$oid": "6385d357b11feae9cab5cdb7"
+  },
+  "description": "Bạn đang tìm một ly cocktail mùa hè sảng khoái để chiêu đãi bạn bè? Hãy thử món daiquiri dưa hấu với rượu rum trắng, nước cốt chanh và rượu mùi dưa hấu",
+  "favorite": false,
+  "ingredients": "Nước đá;50ml rượu rum trắng;25ml rượu mùi dưa hấu hoặc rượu mùi dưa hấu, chẳng hạn như không có;10ml nước cốt chanh;100g dưa hấu (trọng lượng đã chuẩn bị), cộng với một miếng nêm để trang trí",
+  "method": "BƯỚC 1: Cho một ít đá vào máy xay thích hợp để nghiền đá, cùng với rượu rum, rượu mùi dưa hấu, nước cốt chanh và thịt dưa hấu. Blitz cho đến khi mịn màng.;BƯỚC 2: Đổ đầy đá vào ly bão hoặc ly cao khác, rót daiquiri lên trên và trang trí bằng một miếng dưa hấu.",
+  "name": "Watermelon daiquiri",
+  "thumbar": "https://images.immediate.co.uk/production/volatile/sites/30/2021/04/Watermelon-Daiqiri-e7be7d2.jpg?quality=90&webp=true&resize=300,272"
+}]

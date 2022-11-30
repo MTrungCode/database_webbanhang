@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6383174baa8e87abd403a668"
+  },
+  "address": "Ninh Kiều, Cần Thơ",
+  "email": "trung@gmail.com",
+  "name": "Nguyễn Minh Trung",
+  "password": "$2a$10$IAs3aDNpMQ7.aZbYLy0BpeBUy2CI43JuemLpSLFXE1zZrt1eGjaya",
+  "phone": "0962371631",
+  "favorite": false
+},{
+  "_id": {
+    "$oid": "63834ad3aa8e87abd403bcc6"
+  },
+  "address": "Ninh Kiều, Cần Thơ",
+  "email": "teo@gmail.com",
+  "favorite": false,
+  "name": "Trần Văn Tèo",
+  "password": "$2a$10$/dsDvBRTg/S2B6N5qSxUourgza6b0B8dABaytKmBg9iPNGSr/iMSy",
+  "phone": "0987654322"
+}]
